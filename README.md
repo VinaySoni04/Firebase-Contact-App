@@ -6,7 +6,6 @@ Here are some screenshots of it:-
 
 # 1. Home page
 ![Screenshot (172)](https://github.com/VinaySoni04/Firebase-Contact-App/assets/98009479/a0e5b2a3-df2d-47e7-8764-52eec89d87c5)
-![Alt Text](https://github.com/VinaySoni04/Firebase-Contact-App/assets/98009479/345a1678-ce15-4bd7-8edc-f01bb9e6c215){width=250px}
 
 # 2. Add feature
 ![Screenshot (174)](https://github.com/VinaySoni04/Firebase-Contact-App/assets/98009479/6bb18148-d38f-43e7-a079-6a248afb5a94) ![Screenshot (175)](https://github.com/VinaySoni04/Firebase-Contact-App/assets/98009479/a8beced6-d4f6-4ee7-bbe7-ed5f44beda9a)

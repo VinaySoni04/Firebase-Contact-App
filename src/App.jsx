@@ -55,6 +55,10 @@ const App = () => {
     });
   };
 
+  useEffect(()=>{
+    document.title="Firebase Contact App";
+  },[])
+
   return (
     <>
       <div className="mx-auto max-w-[370px] px-4">
@@ -67,7 +71,7 @@ const App = () => {
         </div>
       </div>
       <AddAndUpdate isOpen={isOpen} onClose={onClose} />
-      <ToastContainer position="top-left" />
+      <ToastContainer position="bottom-center" />
     </>
   );
 };
